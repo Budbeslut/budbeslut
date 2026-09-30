@@ -1,16 +1,31 @@
-## Hi there 👋
+# Budbeslut
 
-<!--
-**Budbeslut/budbeslut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-driven due diligence för bostadsrätter.
 
-Here are some ideas to get you started:
+## Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hjälpa bostadsköpare fatta bättre beslut innan budgivning.
+
+## MVP
+
+Input:
+- Adress
+- Kvm
+- Pris
+- Avgift
+- BRF-skuld/kvm
+
+Output:
+- Lägespoäng
+- Bostadspoäng
+- BRF-poäng
+- Prispoäng
+- Totalpoäng
+
+## Roadmap
+
+- [ ] MVP v1
+- [ ] BRF-analys
+- [ ] PDF-rapport
+- [ ] Hemnet-integration
+- [ ] AI Due Diligence
